@@ -19,9 +19,11 @@
 
 - 💬 Ask me about **any thing and everything**
 
+- 👯2021 goals **contribute more to opensource projects**
+
 - 📫 How to reach me **guptajiayan111@gmail.com**
 
-- ⚡ Fun fact **.I speak in hyperbole a lot (i.e., I exaggerate for emphasis). I did NOT know this about myself until I married The World’s Most Literal Person, who points it out to me constantly.😉**
+- ⚡ Fun fact **.i like to cook and eat .😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
