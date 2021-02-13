@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [loveexploringeverytime.blogspot.com](loveexploringeverytime.blogspot.com)
 
-- 💬 Ask me about **frontend ttechnologioes**
+- 💬 Ask me about **frontend ttechnologies**
 
 - 📫 How to reach me **guptajiayan111@gmail.com**
 
