@@ -11,11 +11,13 @@
 
 - 🌱 I’m currently learning **DSA and backend development**
 
-- 👯 I’m looking to collaborate on **youtube**
+- 👯 I’m looking to collaborate on **anything having an impact**
+
+- 🤝 I’m looking for help with **career guidance**
 
 - 📝 I regularly write articles on [loveexploringeverytime.blogspot.com](loveexploringeverytime.blogspot.com)
 
-- 💬 Ask me about **frontend ttechnologies**
+- 💬 Ask me about **any thing and everything**
 
 - 📫 How to reach me **guptajiayan111@gmail.com**
 
