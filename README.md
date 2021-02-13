@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayan Gupta</h1>
+<h1 align="center">Hi 👋, I'm Ayan Gupta</h1
+  (p align="left")(img src="https://komarev.com/ghpvc/?username=k...​" alt="Ayan-thecodeking" /)(/p)
 <h3 align="center">I'm a programmer and an insightful learner who is passionate about growing teams and dreams</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan-thecodeking&label=Profile%20views&color=0e75b6&style=flat" alt="ayan-thecodeking" /> </p>
