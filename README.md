@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan Gupta</h1>
 <h3 align="center">I'm a programmer and an insightful learner who is passionate about growing teams and dreams</h3>
 <img align="centre" alt="GIF" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif?raw=true" width="500" height="320"/>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayan-thecodeking&label=Profile%20views&color=0e75b6&style=flat" alt="ayan-thecodeking" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayan-thecodeking" alt="ayan-thecodeking" /></a> </p>
