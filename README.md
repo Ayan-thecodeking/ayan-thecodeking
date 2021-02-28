@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **career guidance**
 
-- 📝 I regularly write articles on [loveexploringeverytime.blogspot.com](loveexploringeverytime.blogspot.com)
+- 📝 sometime i write articles on [loveexploringeverytime.blogspot.com](loveexploringeverytime.blogspot.com)
 
 - 💬 Ask me about **any thing and everything**
 
