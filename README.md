@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **portfolio**
 
-- 🌱 I’m currently learning **DSA and backend development**
+- 🌱 I’m currently learning **DSA and python**
 
 - 👯 I’m looking to collaborate on **anything having an impact**
 
