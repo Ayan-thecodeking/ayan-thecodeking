@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayan-thecodeking" alt="ayan-thecodeking" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ayangup96479780" target="blank"><img src="https://img.shields.io/twitter/follow/@ayangup96479780?logo=twitter&style=for-the-badge" alt="@ayangup96479780" /></a> </p>
-
+ ## You can contact me here 👉 <a href="https://www.linkedin.com/in/ayan-gupta-924833201/">![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:guptajiayan111@gmail.com">![LinkedIn](https://img.shields.io/badge/Gmail-%231E77B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=red)</a>
+ 
 - 🔭 I’m currently working on **portfolio**
 
 - 🌱 I’m currently learning **DSA and python**
