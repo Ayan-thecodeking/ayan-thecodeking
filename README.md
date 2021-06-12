@@ -11,7 +11,7 @@
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
-I am a Sophomore Year Student at ABESEC IST currently undertaking my Bachelors in Electronics and Communication Engineering. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies. 
+I'm a programmer and an insightful learner who is passionate about growing teams and dreams
   </samp><br><br>
   <samp>
   <img src="https://komarev.com/ghpvc/?username=Ayan-thecodeking" alt="Ayan-thecodeking" /> 
