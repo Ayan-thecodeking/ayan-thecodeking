@@ -82,7 +82,7 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 
 ## [Ayan Gupta](https://Ayan-thecodeking.github.io/Portfolio/)
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-![VisitorCount](https://profile-counter.glitch.me/Ayush7614/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/Ayan-thecodeking/count.svg)
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
