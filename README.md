@@ -43,10 +43,13 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayan-thecodeking&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ayan-thecodeking Github Stats">
 
 </div>
-## 💻Tech Stack
+
+<h2 align="centre">💻Tech Stack</h2>
+<p align="centre">
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/soumita1234/HelpingHand/search?l=html)&nbsp;
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/soumita1234/HelpingHand/search?l=css)&nbsp;
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/soumita1234/HelpingHand/search?l=javascript)
+ </p>
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
