@@ -71,10 +71,14 @@ I'm a programmer and an insightful learner who is passionate about growing teams
   <a href="https://www.instagram.com/codexayan_/?r=nametag"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ayangupta.substack.com/"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<h2 align="center">Git-Hub Streak !! :fire:</h2> 
-<p  align="center">
-<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-thecodeking&)" alt="Ayan Gupta" />
+<h2 align="center">My contribution Streak !! :fire:</h2> 
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-thecodeking&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
 </p>
+
 
   <h3 align="center">
     <a href="https://discord.gg/FZusE7FH4q">👋 join our discord community</a>
