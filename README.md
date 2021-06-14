@@ -4,10 +4,10 @@
 
 
 
-<h1 align="centre">Hi 👋, I'm Ayan Gupta</h1>
+<h1 align="center">Hi 👋, I'm Ayan Gupta</h1>
 
 
- <p align="centre">
+ <p align="center">
     <a href="https://github.com/Ayan-thecodeking"><img src="https://github.com/Ayan-thecodeking/Ayan-thecodeking/blob/main/forkit.gif" /></a> 
 </p>
 
