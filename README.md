@@ -11,10 +11,14 @@
     <a href="https://github.com/Ayan-thecodeking"><img src="https://github.com/Ayan-thecodeking/Ayan-thecodeking/blob/main/forkit.gif" /></a> 
 </p>
 
+  <h3 align="center">
+    <a href="https://discord.gg/FZusE7FH4q">👋 join our discord community <strong>Coders Evoke</strong> </a>
+    </h3>
 <h2 align="center"> 👨‍💻 Who am I?</h2>
+
 <p align="center">
   <samp>
-I'm a programmer and an insightful learner who is passionate about growing teams and dreams
+I'm a programmer and an insightful learner who is passionate about growing teams and dreams. Founded <a href="https://discord.gg/FZusE7FH4q">CodersEvoke [join us]</a> community for beginners 
   </samp><br><br>
    <samp>
      <img src="https://komarev.com/ghpvc/?username=Ayan-thecodeking" alt="Ayan-thecodeking" /> 
@@ -80,9 +84,6 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 </p>
 
 
-  <h3 align="center">
-    <a href="https://discord.gg/FZusE7FH4q">👋 join our discord community</a>
-    </h3>
 
 ## [Ayan Gupta](https://Ayan-thecodeking.github.io/Portfolio/)
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
