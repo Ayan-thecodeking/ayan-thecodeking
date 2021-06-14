@@ -20,9 +20,7 @@ I'm a programmer and an insightful learner who is passionate about growing teams
      <img src="https://komarev.com/ghpvc/?username=Ayan-thecodeking" alt="Ayan-thecodeking" /> 
 </p>
 
-   <h3 align="center">
-    <a href="https://discord.gg/FZusE7FH4q">join our discord community</a>
-    </h3>
+ 
   
 
  
@@ -78,7 +76,9 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 <img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-thecodeking&)" alt="Ayan Gupta" />
 </p>
 
-
+  <h3 align="center">
+    <a href="https://discord.gg/FZusE7FH4q">join our discord community</a>
+    </h3>
 
 ## [Ayan Gupta](https://Ayan-thecodeking.github.io/Portfolio/)
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
