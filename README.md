@@ -46,9 +46,9 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 
 <h2 align="centre">💻Tech Stack</h2>
 <p align="centre">
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/soumita1234/HelpingHand/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/soumita1234/HelpingHand/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/soumita1234/HelpingHand/search?l=javascript)
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Ayan-thecodeking/HelpingHand/search?l=html)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Ayan-thecodeking/HelpingHand/search?l=css)&nbsp;
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://https://github.com/Ayan-thecodeking/HelpingHand/search?l=javascript)
  </p>
 
 <h2 align="center">📫 Reach out to me on</h2>
