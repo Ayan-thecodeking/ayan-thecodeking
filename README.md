@@ -2,9 +2,12 @@
      <a href="https://github.com/Ayan-thecodeking"><img src="https://github.com/Ayan-thecodeking/Ayan-thecodeking/blob/main/Hello.gif" /></a> 
 </p>
 
-<h1 align="center">Hi 👋, I'm Ayan Gupta</h1>
 
- <p align="center">
+
+<h1 align="centre">Hi 👋, I'm Ayan Gupta</h1>
+
+
+ <p align="centre">
     <a href="https://github.com/Ayan-thecodeking"><img src="https://github.com/Ayan-thecodeking/Ayan-thecodeking/blob/main/forkit.gif" /></a> 
 </p>
 
@@ -63,6 +66,10 @@ I'm a programmer and an insightful learner who is passionate about growing teams
   <a href="mailto:guptajiayan111@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/codexayan_/?r=nametag"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ayangupta.substack.com/"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<h2 align="center">Git-Hub Streak !! :fire:</h2> 
+<p  align="center">
+<img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayan-thecodeking&)" alt="Ayan Gupta" />
 </p>
 
 
