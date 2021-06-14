@@ -77,7 +77,7 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 </p>
 
   <h3 align="center">
-    <a href="https://discord.gg/FZusE7FH4q">join our discord community</a>
+    <a href="https://discord.gg/FZusE7FH4q">👋 join our discord community</a>
     </h3>
 
 ## [Ayan Gupta](https://Ayan-thecodeking.github.io/Portfolio/)
