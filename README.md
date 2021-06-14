@@ -15,14 +15,17 @@
 <p align="center">
   <samp>
 I'm a programmer and an insightful learner who is passionate about growing teams and dreams
+  </samp><br><br>
+   <samp>
+     <img src="https://komarev.com/ghpvc/?username=Ayan-thecodeking" alt="Ayan-thecodeking" /> 
+</p>
+
    <h3 align="center">
     <a href="https://discord.gg/FZusE7FH4q">join our discord community</a>
     </h3>
-  </samp><br><br>
-  <samp>
-  <img src="https://komarev.com/ghpvc/?username=Ayan-thecodeking" alt="Ayan-thecodeking" /> 
-</p>
+  
 
+ 
 <!-- <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
