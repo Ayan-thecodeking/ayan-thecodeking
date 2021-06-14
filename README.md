@@ -15,6 +15,9 @@
 <p align="center">
   <samp>
 I'm a programmer and an insightful learner who is passionate about growing teams and dreams
+   <h3 align="center">
+    <a href="https://discord.gg/FZusE7FH4q">join our discord community</a>
+    </h3>
   </samp><br><br>
   <samp>
   <img src="https://komarev.com/ghpvc/?username=Ayan-thecodeking" alt="Ayan-thecodeking" /> 
