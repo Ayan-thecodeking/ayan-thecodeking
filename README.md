@@ -56,7 +56,7 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 </div>
 
 
-<h2 align="center"> 🔭 Technology Stack</h2>
+<h2 align="center"> 🔭 Technology Stacks</h2>
 <p align="center">
  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
