@@ -23,17 +23,7 @@ I'm a programmer and an insightful learner who is passionate about growing teams
    <samp>
      <img src="https://komarev.com/ghpvc/?username=Ayan-thecodeking" alt="Ayan-thecodeking" /> 
     </p>
- 
- <p align="center">
-   <a href="https://github.com/Ayan-thecodeking">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayan-thecodeking
-&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
- </p>
- 
-  
 
- 
 <!-- <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
