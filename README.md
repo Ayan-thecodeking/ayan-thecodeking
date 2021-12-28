@@ -30,10 +30,8 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 - [Hacktoberfest Mentor](https://hacktoberfest.digitalocean.com/) - I worked as a mentor amd maintainer amd merged 50+ from 35 skilled contributors <a href="https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates">project repo</a>
 - [Contributer-Girlscript and LGMsoc'21](https://gssoc.girlscript.tech/) - Completed 1000+ contributions in opensource programmes . 
 - [Program-Admin Devincept](https://devincept.codes/projects.html) As a Program Admin I guided folks to contribute on our web development project.
-- [MLH-INIT TOP 5](https://twitter.com/CodeXayan_/status/1409579661458219012?s=19) - Leaded Coders Evoke guild in MLH init'21 and secured 5th position in rankings and 1st position in Guild activity rankings .
-
+- [MLH-INIT TOP 5](https://twitter.com/CodeXayan_/status/1409579661458219012?s=19) - Leaded Coders Evoke guild in MLH init'21 and secured 5th position in rankings and 1st position in Guild activity rankings 
  
-https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates
 <!-- <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
