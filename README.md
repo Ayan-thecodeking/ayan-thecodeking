@@ -26,7 +26,7 @@ I'm a programmer and an insightful learner who is passionate about growing teams
  
  ### My Experiences 🙌
 - [Founder-Coders Evoke](https://github.com/Coders-Evoke-Community) - Started this community to bring community culture in my college to guide beginners and to share opportunities since I have started , now Coders Evoke is the hub for over 2.1k+ peeps all around the world . 
- - [Android facilatator GDSC](https://gdsc.community.dev/shri-shankaracharya-institute-of-technology-management-bhilai/) - Hosted 10 sessions on android for college students involving 80 students from campus.
+ - [Android facilatator GDSC SSITM](https://gdsc.community.dev/shri-shankaracharya-institute-of-technology-management-bhilai/) - Hosted 10 sessions on android for college students involving 80 students from campus.
 - [Hacktoberfest Mentor](https://hacktoberfest.digitalocean.com/) - I worked as a mentor amd maintainer amd merged 50+ from 35 skilled contributors <a href="https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates">project repo</a>
 - [Contributer-Girlscript and LGMsoc'21](https://gssoc.girlscript.tech/) - Completed 1000+ contributions in opensource programmes . 
 - [Program-Admin Devincept](https://devincept.codes/projects.html) As a Program Admin I guided folks to contribute on our web development project.
