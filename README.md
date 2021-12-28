@@ -25,13 +25,15 @@ I'm a programmer and an insightful learner who is passionate about growing teams
     </p>
  
  ### My Experiences 🙌
-- [Founder-Coders Evoke](https://github.com/Coders-Evoke-Community) - Started this community to bring community culture in my college to guide beginners and to share opportunities ..since i have started , now Coders Evoke is the hub for over 0+ peeps all around the world .  
+- [Founder-Coders Evoke](https://github.com/Coders-Evoke-Community) - Started this community to bring community culture in my college to guide beginners and to share opportunities ..since i have started , now Coders Evoke is the hub for over 0+ peeps all around the world . 
+ - [Android facilatator GDSC](https://gdsc.community.dev/shri-shankaracharya-institute-of-technology-management-bhilai/) - Hosted 10 sessions on android for college students involving 80 students from ccampus.
+- [Hacktoberfest Mentor](https://hacktoberfest.digitalocean.com/) - I worked as a mentor amd maintainer amd merged 50+ from 35 skilled conributors [project repo](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates)  . 
 - [Contributer-Girlscript and LGMsoc'21](https://gssoc.girlscript.tech/) - Completed 2000+ contributions in opensource programmes . 
 - [Program-Admin Devincept](https://devincept.codes/projects.html) As a Program Admin i guided folks to contribute on our web development project.
-- [MLH-INT TOP 5](https://twitter.com/CodeXayan_/status/1409579661458219012?s=19) - Leaded Coders Evoke guild in MLH init'21 and secured 5th position in rankings and 1st position in Guild activity rankings .
+- [MLH-INIT TOP 5](https://twitter.com/CodeXayan_/status/1409579661458219012?s=19) - Leaded Coders Evoke guild in MLH init'21 and secured 5th position in rankings and 1st position in Guild activity rankings .
 
  
-
+https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates
 <!-- <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
