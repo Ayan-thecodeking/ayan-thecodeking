@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: "AyanGupta" # Hashnode Username
           COUNT: 4 # MAX Visisble
-          STYLE: "blog-left"
+          STYLE: "blog-center"
           BLOG_URL: "https://ayangupta.hashnode.dev/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
