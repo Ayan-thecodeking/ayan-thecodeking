@@ -107,22 +107,5 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://ayangupta.hashnode.dev//how-should-a-b-tech-cse-student-plan-his-4-years-in-a-private-college-to-beat-the-placements-of-nits-and-iits" title="How should a B-Tech CSE student plan his 4 years in a private college to beat the placements of NITs and IITs?"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/q10VITrVYUM/upload/v1641892694218/5hZUXf3IB.jpeg" alt="How should a B-Tech CSE student plan his 4 years in a private college to beat the placements of NITs and IITs?" width="250px" align="left" /></a>
-<a href="https://ayangupta.hashnode.dev//how-should-a-b-tech-cse-student-plan-his-4-years-in-a-private-college-to-beat-the-placements-of-nits-and-iits" title="How should a B-Tech CSE student plan his 4 years in a private college to beat the placements of NITs and IITs?"><strong>How should a B-Tech CSE student plan his 4 years in a private college to beat the placements of NITs and IITs?</strong></a>
-<div><strong>11 Jan 2022</strong></div>
-<br/> The only major disadvantage of not being in a Tier-1 college is the lack of access. By access I mean
 
-Top companies might not come to your campus
-
-You might not have access to thriving alumni network
-
-
-Now let’s see how these can be tackled. Since yo... </p> <br/> <br/>
-<p align="left">
-<a href="https://ayangupta.hashnode.dev//my-open-source-journey" title="My Open Source Journey"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1628966925571/sVSnJZ4x5.jpeg" alt="My Open Source Journey" width="250px" align="left" /></a>
-<a href="https://ayangupta.hashnode.dev//my-open-source-journey" title="My Open Source Journey"><strong>My Open Source Journey</strong></a>
-<div><strong>16 Aug 2021</strong></div>
-<br/> Beginning :-
-My interest in computers and coding started rather early, so when I was 14 years old, I suppose to read books related to science and technologies and I always wanted to contribute on this type of stuffs and after taking Computer science ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
