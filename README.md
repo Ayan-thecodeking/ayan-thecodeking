@@ -114,6 +114,7 @@ I'm a programmer and an insightful learner who is passionate about growing teams
    <h2 align="center">🔭 My Blogs</h2>
 
 <!-- HASHNODE:START -->
+- [Why you should learn java in 2022 ahead of Python ?](https://ayangupta.hashnode.dev/why-you-should-learn-java-in-2022-ahead-of-python)
 - [How should a B-Tech CSE student plan his 4 years in a private college to beat the placements of NITs and IITs?](https://ayangupta.hashnode.dev/how-should-a-b-tech-cse-student-plan-his-4-years-in-a-private-college-to-beat-the-placements-of-nits-and-iits)
 - [My Open Source Journey](https://ayangupta.hashnode.dev/my-open-source-journey)
 <!-- HASHNODE:END -->
