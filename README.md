@@ -24,7 +24,7 @@ I'm a programmer and an insightful learner who is passionate about growing teams
      <img src="https://komarev.com/ghpvc/?username=Ayan-thecodeking" alt="Ayan-thecodeking" /> 
     </p>
  
- ### My Experiences 🙌
+ <h2 align="center"> My Experiences 🙌</h2>
 - [Founder-Coders Evoke](https://github.com/Coders-Evoke-Community) - Started this community to bring community culture in my college to guide beginners and to share opportunities since I have started , now Coders Evoke is the hub for over 2.1k+ peeps all around the world . 
  - [Android facilatator GDSC SSITM](https://gdsc.community.dev/shri-shankaracharya-institute-of-technology-management-bhilai/) - Hosted 10 sessions on android for college students involving 80 students from campus.
 - [Hacktoberfest Mentor](https://hacktoberfest.digitalocean.com/) - I worked as a mentor and maintainer amd merged 50+ from 35 skilled contributors <a href="https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates">project repo</a>
@@ -32,7 +32,7 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 - [Program-Admin Devincept](https://devincept.codes/projects.html) As a Program Admin I guided folks to contribute on our web development project.
 - [MLH-INIT TOP 5](https://twitter.com/CodeXayan_/status/1409579661458219012?s=19) - Leaded Coders Evoke guild in MLH init'21 and secured 5th position in rankings and 1st position in Guild activity rankings 
  
-## Hashnode Blog Post
+<h2 align="center"> 🔭 My Blogs </h2>
 <!-- HASHNODE:START -->
 - [How should a B-Tech CSE student plan his 4 years in a private college to beat the placements of NITs and IITs?](https://ayangupta.hashnode.dev/how-should-a-b-tech-cse-student-plan-his-4-years-in-a-private-college-to-beat-the-placements-of-nits-and-iits)
 - [My Open Source Journey](https://ayangupta.hashnode.dev/my-open-source-journey)
