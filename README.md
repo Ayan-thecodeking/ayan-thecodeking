@@ -33,14 +33,8 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 - [Program-Admin Devincept](https://devincept.codes/projects.html) As a Program Admin I guided folks to contribute on our web development project.
 - [MLH-INIT TOP 5](https://twitter.com/CodeXayan_/status/1409579661458219012?s=19) - Leaded Coders Evoke guild in MLH init'21 and secured 5th position in rankings and 1st position in Guild activity rankings 
  
-## 🔭 My Blogs 
 
-<!-- HASHNODE:START -->
-- [How should a B-Tech CSE student plan his 4 years in a private college to beat the placements of NITs and IITs?](https://ayangupta.hashnode.dev/how-should-a-b-tech-cse-student-plan-his-4-years-in-a-private-college-to-beat-the-placements-of-nits-and-iits)
-- [My Open Source Journey](https://ayangupta.hashnode.dev/my-open-source-journey)
-<!-- HASHNODE:END -->
 
- 
 <!-- <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -106,6 +100,7 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
+
 ![](https://activity-graph.herokuapp.com/graph?username=Ayan-thecodeking&theme=github)
 <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
@@ -114,4 +109,12 @@ I'm a programmer and an insightful learner who is passionate about growing teams
 
 <!-- https://github.com/Ayan-thecodeking/ayan-thecodeking/blob/output/github-contribution-grid-snake.gif?raw=true -->
 
+<hr>
+
+   <h2 align="center">🔭 My Blogs</h2>
+
+<!-- HASHNODE:START -->
+- [How should a B-Tech CSE student plan his 4 years in a private college to beat the placements of NITs and IITs?](https://ayangupta.hashnode.dev/how-should-a-b-tech-cse-student-plan-his-4-years-in-a-private-college-to-beat-the-placements-of-nits-and-iits)
+- [My Open Source Journey](https://ayangupta.hashnode.dev/my-open-source-journey)
+<!-- HASHNODE:END -->
 
