@@ -27,7 +27,7 @@ I'm a programmer and an insightful learner who is passionate about growing teams
  ## My Tech Experiences 🙌
  
 - [Founder-Coders Evoke](https://github.com/Coders-Evoke-Community) - Started this community to bring community culture in my college to guide beginners and to share opportunities since I have started , now Coders Evoke is the hub for over 2.1k+ peeps all around the world [Website](http://codersevoke.us). 
- - [HackClub Lead SSTC](https://hackclub.com/slack/) - Leading HackClub community in my college. 
+ - [Ex-HackClub Lead SSTC](https://hackclub.com/slack/) - Lead HackClub community in my college. 
  - [AzDev Lead](https://www.azdev.community/) - Leading Azure Developer Community of durg region . 
  - [Android facilatator GDSC SSITM](https://gdsc.community.dev/shri-shankaracharya-institute-of-technology-management-bhilai/) - Hosted 10 sessions on android for college students involving 80 students from campus.
 - [Hacktoberfest Mentor](https://hacktoberfest.digitalocean.com/) - I worked as a mentor and maintainer amd merged 50+ from 35 skilled contributors <a href="https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates">project repo</a>
